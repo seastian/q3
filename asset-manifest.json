@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.js": "./static/js/main.bff77efa.chunk.js",
-    "main.js.map": "./static/js/main.bff77efa.chunk.js.map",
+    "main.js": "./static/js/main.c129e5d1.chunk.js",
+    "main.js.map": "./static/js/main.c129e5d1.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.9a35fb82.js",
     "runtime-main.js.map": "./static/js/runtime-main.9a35fb82.js.map",
     "static/css/2.43a1c8b7.chunk.css": "./static/css/2.43a1c8b7.chunk.css",
-    "static/js/2.654e9d44.chunk.js": "./static/js/2.654e9d44.chunk.js",
-    "static/js/2.654e9d44.chunk.js.map": "./static/js/2.654e9d44.chunk.js.map",
+    "static/js/2.bde26bba.chunk.js": "./static/js/2.bde26bba.chunk.js",
+    "static/js/2.bde26bba.chunk.js.map": "./static/js/2.bde26bba.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.339a445f4f1ef7b6462cfb3f098b19c2.js": "./precache-manifest.339a445f4f1ef7b6462cfb3f098b19c2.js",
+    "precache-manifest.4e64ae774439e4691335f5c73b54aa6c.js": "./precache-manifest.4e64ae774439e4691335f5c73b54aa6c.js",
     "service-worker.js": "./service-worker.js",
     "static/css/2.43a1c8b7.chunk.css.map": "./static/css/2.43a1c8b7.chunk.css.map",
-    "static/js/2.654e9d44.chunk.js.LICENSE.txt": "./static/js/2.654e9d44.chunk.js.LICENSE.txt",
+    "static/js/2.bde26bba.chunk.js.LICENSE.txt": "./static/js/2.bde26bba.chunk.js.LICENSE.txt",
     "static/media/Audi.svg": "./static/media/Audi.89a3ae07.svg",
     "static/media/MercedesBenz.svg": "./static/media/MercedesBenz.21419bb0.svg",
     "static/media/cockpit.jpg": "./static/media/cockpit.097a3063.jpg",
@@ -20,7 +20,7 @@
   "entrypoints": [
     "static/js/runtime-main.9a35fb82.js",
     "static/css/2.43a1c8b7.chunk.css",
-    "static/js/2.654e9d44.chunk.js",
-    "static/js/main.bff77efa.chunk.js"
+    "static/js/2.bde26bba.chunk.js",
+    "static/js/main.c129e5d1.chunk.js"
   ]
 }
