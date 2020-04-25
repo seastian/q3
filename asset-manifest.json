@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "./static/js/main.4fa29543.chunk.js",
+    "main.js.map": "./static/js/main.4fa29543.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.9a35fb82.js",
+    "runtime-main.js.map": "./static/js/runtime-main.9a35fb82.js.map",
+    "static/css/2.43a1c8b7.chunk.css": "./static/css/2.43a1c8b7.chunk.css",
+    "static/js/2.701a7399.chunk.js": "./static/js/2.701a7399.chunk.js",
+    "static/js/2.701a7399.chunk.js.map": "./static/js/2.701a7399.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.daea3b38f9770c46d374fe4f97e80327.js": "./precache-manifest.daea3b38f9770c46d374fe4f97e80327.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.43a1c8b7.chunk.css.map": "./static/css/2.43a1c8b7.chunk.css.map",
+    "static/js/2.701a7399.chunk.js.LICENSE.txt": "./static/js/2.701a7399.chunk.js.LICENSE.txt",
+    "static/media/Audi.svg": "./static/media/Audi.89a3ae07.svg",
+    "static/media/MercedesBenz.svg": "./static/media/MercedesBenz.21419bb0.svg",
+    "static/media/cockpit.jpg": "./static/media/cockpit.097a3063.jpg",
+    "static/media/index.css": "./static/media/roboto-latin-900italic.ebf6d164.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a35fb82.js",
+    "static/css/2.43a1c8b7.chunk.css",
+    "static/js/2.701a7399.chunk.js",
+    "static/js/main.4fa29543.chunk.js"
+  ]
+}
